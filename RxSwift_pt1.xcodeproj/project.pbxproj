@@ -17,6 +17,7 @@
 		814BAA2623CB7A57005C069F /* RxCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = 814BAA2523CB7A57005C069F /* RxCocoa */; };
 		8172233A23E78EFE007CE8B5 /* PhotosCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8172233923E78EFE007CE8B5 /* PhotosCollectionViewController.swift */; };
 		8172233C23E79EC0007CE8B5 /* PhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8172233B23E79EC0007CE8B5 /* PhotoCollectionViewCell.swift */; };
+		8172233E23E7AB1B007CE8B5 /* FilterService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8172233D23E7AB1B007CE8B5 /* FilterService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		814BAA1C23CB62E2005C069F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8172233923E78EFE007CE8B5 /* PhotosCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosCollectionViewController.swift; sourceTree = "<group>"; };
 		8172233B23E79EC0007CE8B5 /* PhotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewCell.swift; sourceTree = "<group>"; };
+		8172233D23E7AB1B007CE8B5 /* FilterService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				814BAA1223CB62E0005C069F /* ViewController.swift */,
 				8172233923E78EFE007CE8B5 /* PhotosCollectionViewController.swift */,
 				8172233B23E79EC0007CE8B5 /* PhotoCollectionViewCell.swift */,
+				8172233D23E7AB1B007CE8B5 /* FilterService.swift */,
 				814BAA1423CB62E0005C069F /* Main.storyboard */,
 				814BAA1723CB62E2005C069F /* Assets.xcassets */,
 				814BAA1923CB62E2005C069F /* LaunchScreen.storyboard */,
@@ -158,6 +161,7 @@
 				814BAA1323CB62E0005C069F /* ViewController.swift in Sources */,
 				8172233C23E79EC0007CE8B5 /* PhotoCollectionViewCell.swift in Sources */,
 				814BAA0F23CB62E0005C069F /* AppDelegate.swift in Sources */,
+				8172233E23E7AB1B007CE8B5 /* FilterService.swift in Sources */,
 				814BAA1123CB62E0005C069F /* SceneDelegate.swift in Sources */,
 				8172233A23E78EFE007CE8B5 /* PhotosCollectionViewController.swift in Sources */,
 			);
